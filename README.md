@@ -4,7 +4,9 @@ As a candidate, please clone this repo before your technical interview.
 
 Please follow the instructions below to prepare the client and server before the interview - if your interview is server only or client only, please follow the instructions for the respective part.
 
-# Preparing the Client
+There is no need or requirement to add any new dependencies or packages to the client or the server. We aren't looking for any specific libraries or frameworks. We also aren't forbidding you from using any libraries or frameworks you want - but we don't recommend using any.
+ 
+## Preparing the Client
 
 1. Run the following commands on the root folder to install the dependencies and start the development server
 
@@ -18,7 +20,7 @@ npm run dev
 
 3. Make sure you see the Swap logo and the welcome message.
 
-# Preparing the Server
+## Preparing the Server
 
 1. Run the following commands on the root folder to install the dependencies and start the development server
 
