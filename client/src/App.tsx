@@ -6,7 +6,7 @@ function App() {
     <>
       <div>
         <a href="https://www.swap-commerce.com/" target="_blank">
-          <img src={swapGif} className="logo" alt="Vite logo" />
+          <img src={swapGif} className="logo" alt="Swap logo" />
         </a>
       </div>
       <h1>Welcome to Swap</h1>
