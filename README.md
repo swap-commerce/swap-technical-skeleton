@@ -40,4 +40,4 @@ npm run dev
 curl -X POST http://localhost:3000/ -H "Content-Type: application/json" -d '{"message": "Hello from client"}'
 ```
 
-Note: we recommand using [Postman](https://www.postman.com/) to make the POST request.
+Note: Feel free to use any tool here.

@@ -1,10 +1,7 @@
-import { useState } from 'react'
-import swapGif from '/swap.gif'
-import './App.css'
+import swapGif from "/swap.gif";
+import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <div>
@@ -14,7 +11,7 @@ function App() {
       </div>
       <h1>Welcome to Swap</h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
